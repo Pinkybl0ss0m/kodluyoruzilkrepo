@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçinde bir adet README dosyası, bir adet de index.html barındırıyor.
-![resim](https://photos.app.goo.gl/yujpPfUCc99kpy8p9)
+! [resim] (https://photos.app.goo.gl/yujpPfUCc99kpy8p9)
 ## Installation
 Öncelikle projeyi clonelayın.
 
