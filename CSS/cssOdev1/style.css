@@ -1,0 +1,27 @@
+body{
+    background: #F2F1EB;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Playfair Display', serif;
+    color: #161A30;
+}
+
+p, strong{
+    font-family: 'Afacad', sans-serif;
+    font-size:large;
+    color: #31304D;
+}
+
+ul li{
+    font-family: 'Afacad', sans-serif;
+    font-size:large;
+}
+
+ul li::marker{
+    content:'🐈';
+}
+
+a{
+    font-family: 'Afacad', sans-serif;
+}
