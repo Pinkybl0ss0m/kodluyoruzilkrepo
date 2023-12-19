@@ -2,9 +2,22 @@ body{
     background: #F2F1EB;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1{
     font-family: 'Playfair Display', serif;
     color: #161A30;
+    font-size:40px; 
+}
+
+h2{
+    font-family: 'Playfair Display', serif;
+    color: #161A30;
+    font-size:30px; 
+}
+
+h3{
+    font-family: 'Playfair Display', serif;
+    color: #161A30;
+    font-size:25px; 
 }
 
 p, strong{
