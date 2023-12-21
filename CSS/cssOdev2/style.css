@@ -1,0 +1,50 @@
+/* you can write what you want to search */
+.search{
+    width: 330px;
+}
+
+.search-box{
+    margin: 0 70px 0 70px;
+    background-color: #EEEEEE;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* no space for padding */
+p{
+    padding: 0px;
+    margin: 0px;
+}
+
+/* for centering everything */
+body{
+    text-align: center;
+}
+
+.bg-first{
+    background-color: #7EE5DA;
+    width: 37%;
+    margin-right: 3px;
+    padding: 10px;
+}
+
+.bg-second{
+    background-color: #70CCC2;
+    width: 20%;
+    margin-right: 3px;
+}
+
+.bg-third{
+    background-color: #62B3AA;
+    width: 43%;
+}
+
+.font{
+    font-size:smaller;
+}
+
+.collumn{
+    margin: 3px 70px 0px 70px;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+}
